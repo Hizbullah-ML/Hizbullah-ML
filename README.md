@@ -5,13 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=450&lines=Computer+Science+Graduate;Machine+Learning+%26+MLOps;Architecting+Healthcare+AI;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hizbullah-ML&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=450&lines=Computer+Science+Graduate;Machine+Learning+and+MLOps;Architecting+Healthcare+AI;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -72,20 +66,16 @@
 > * **Stack & Techniques:** Advanced data preprocessing, feature engineering, XGBoost, and hyperparameter tuning via Optuna.
 > * **Focus:** Integrating SHAP for explainable AI (XAI) to ensure clinical transparency, and preparing the model for real-world deployment via web frameworks.
 
-<a href="https://github.com/Hizbullah-ML/your-repo-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hizbullah-ML&repo=your-repo-name&theme=tokyonight&hide_border=true" />
-</a>
-
 ---
 
 ## 📜 Certifications
 
 | Certification | Issuer | Date |
 |---|---|---|
-| 🏆 Machine Learning Specialization[cite: 8] | Stanford / DeepLearning.AI (Coursera)[cite: 8] | Sep 2026[cite: 8] |
-| 🏆 Microsoft Certified: Azure AI Fundamentals[cite: 6] | Microsoft[cite: 6] | Jul 2026[cite: 6] |
-| 🏆 Artificial Intelligence (Machine Learning / Deep Learning)[cite: 11] | NAVTTC[cite: 11] | Jun 2026[cite: 11] |
-| 🏆 CCNAv7: Introduction to Networks[cite: 1] | Cisco Networking Academy[cite: 1] | May 2024[cite: 1] |
+| 🏆 Machine Learning Specialization | Stanford / DeepLearning.AI (Coursera) | Sep 2026 |
+| 🏆 Microsoft Certified: Azure AI Fundamentals | Microsoft | Jul 2026 |
+| 🏆 Artificial Intelligence (Machine Learning / Deep Learning) | NAVTTC | Jun 2026 |
+| 🏆 CCNAv7: Introduction to Networks | Cisco Networking Academy | May 2024 |
 | 🔄 Cloud Solution Architect | Huawei | In Progress |
 
 ---
