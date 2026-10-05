@@ -1,60 +1,92 @@
 <h1 align="center">Hi there, I'm Hizbullah 👋</h1>
 
 <p align="center">
-  <em>CS Student • Machine Learning Enthusiast • Building AI for Healthcare</em>
+  <em>Computer Science Graduate • ML & MLOps Engineer • Architecting AI for Healthcare</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=CS+Student+%40+University+of+Peshawar;Machine+Learning+%26+Deep+Learning;Building+Diabetes+Prediction+Model;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=450&lines=Computer+Science+Graduate;Machine+Learning+%26+MLOps;Architecting+Healthcare+AI;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hizbullah-ML&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎓 BS Computer Science student at **University of Peshawar** (Class of 2026)
-- 🤖 Passionate about **Machine Learning & Deep Learning**
-- 🩺 Final Year Project: **Diabetes Prediction using Machine Learning**
-- 📚 Completed **Andrew Ng's ML Specialization** on Coursera (Stanford / DeepLearning.AI)
-- 🌐 Certified in **CCNA: Switching, Routing & Wireless Essentials** (Cisco)
-- 📍 Based in **Peshawar, KPK, Pakistan**
-- 🌱 Currently completing **NAVTTC AI (ML & DL)** course
+- 🎓 **B.S. Computer Science Graduate** from the University of Peshawar.
+- 🤖 Specializing in **Machine Learning, Deep Learning, and MLOps**.
+- 🩺 Lead Developer on **Clinical AI Models**, specifically building robust diabetes risk prediction pipelines using complex health datasets.
+- 📚 Certified in **Deep Learning (Stanford/DeepLearning.AI)**, **Azure AI**, and **AI Specialization (NAVTTC)**.
+- 🌐 Strong foundation in network infrastructure and cloud architecture.
+- 📍 Based in **Peshawar, KPK, Pakistan**.
+
+---
+
+## 🎯 Current Focus & Goals
+
+- 🔭 **Working on:** Deploying clinical ML models into production using Streamlit and Flask.
+- 🌱 **Learning:** Cloud architecture and infrastructure via the Huawei Cloud Solution Architect track.
+- 👯 **Looking to collaborate on:** Open-source MLOps tools, healthcare AI datasets, and explainable AI (XAI) implementations.
+- 💬 **Ask me about:** Python, XGBoost, Optuna, and building predictive pipelines.
 
 ---
 
 ## 🛠️ Skills & Tools
 
+**Languages & Core Data:**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+**Machine Learning & AI:**
+<p align="left">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-172B4D?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+**MLOps, Deployment & Infrastructure:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ---
 
-## 📜 Certifications
+## 🚀 Featured Project
 
-| Certificate | Issuer | Date |
-|---|---|---|
-| 🏆 Supervised ML: Regression & Classification | Stanford / DeepLearning.AI (Coursera) | Jan 2025 |
-| 🏆 Advanced Learning Algorithms | Stanford / DeepLearning.AI (Coursera) | Mar 2025 |
-| 🏆 CCNA: Switching, Routing & Wireless Essentials | Cisco Networking Academy | Jan 2025 |
-| 🔄 AI — Machine Learning & Deep Learning | NAVTTC | In Progress |
+### 🩺 Dual-Tier Diabetes Risk Prediction Pipeline
+> Architecting an end-to-end clinical AI model to predict diabetes risk using comprehensive health surveys (like NHANES). 
+> * **Stack & Techniques:** Advanced data preprocessing, feature engineering, XGBoost, and hyperparameter tuning via Optuna.
+> * **Focus:** Integrating SHAP for explainable AI (XAI) to ensure clinical transparency, and preparing the model for real-world deployment via web frameworks.
+
+<a href="https://github.com/Hizbullah-ML/your-repo-name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hizbullah-ML&repo=your-repo-name&theme=tokyonight&hide_border=true" />
+</a>
 
 ---
 
-## 🚀 Current Project
+## 📜 Certifications
 
-### 🩺 Diabetes Prediction using Machine Learning
-> Building a supervised ML model to predict diabetes in patients using clinical data.
-> Applying data preprocessing, EDA, feature engineering, and classification algorithms.
+| Certification | Issuer | Date |
+|---|---|---|
+| 🏆 Machine Learning Specialization[cite: 8] | Stanford / DeepLearning.AI (Coursera)[cite: 8] | Sep 2026[cite: 8] |
+| 🏆 Microsoft Certified: Azure AI Fundamentals[cite: 6] | Microsoft[cite: 6] | Jul 2026[cite: 6] |
+| 🏆 Artificial Intelligence (Machine Learning / Deep Learning)[cite: 11] | NAVTTC[cite: 11] | Jun 2026[cite: 11] |
+| 🏆 CCNAv7: Introduction to Networks[cite: 1] | Cisco Networking Academy[cite: 1] | May 2024[cite: 1] |
+| 🔄 Cloud Solution Architect | Huawei | In Progress |
 
 ---
 
@@ -67,7 +99,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://github.com/Hizbullah-ML">
